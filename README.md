@@ -1,7 +1,6 @@
 # Code
  my first repository
 
-"
 HTML NOTES:
     <p> paragraph
     <h1> main header
@@ -37,7 +36,10 @@ HTML NOTES:
     <ul>
         <li><a href="https://example.com">Website</a></li>
     </ul>
-    "
+    <img src="" alt=""> no closing tag, src = source where you put the link, alt is the text description of the image
+    <!--text--> HTML comments
+
+shortcut for notes is "ctrl + /"
 ctrl + shift + p = to search
 format shortcut = shift + alt + F
 alt + shift + up/down arrow to copy lines up/down
