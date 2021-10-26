@@ -44,3 +44,7 @@ ctrl + shift + p = to search
 format shortcut = shift + alt + F
 alt + shift + up/down arrow to copy lines up/down
 HREF stands for hypertext reference
+HTML5 - new version of html lmao. HTML standard is the document.
+html.spec.whatwg.org
+inline elements fit in alongside other elements
+block lvl elements take up a whole "block" of space*
