@@ -38,6 +38,14 @@ HTML NOTES:
     </ul>
     <img src="" alt=""> no closing tag, src = source where you put the link, alt is the text description of the image
     <!--text--> HTML comments
+    <div> content division element, generic container to group things together. block lvl element.
+    <span> generic container, inline element.
+    <hr> a break/line/divider no closing tag
+    <br> line break
+    <sup> elevated off the baseline aka exponents
+    <sub> below the baseline sometimes smaller
+    html entities all start with & end with ; used as filler for symbols that are difficult to type. ie copyright symbol, arrows, accented letters. also reserved characters [<>]. can be words or numbers. 
+    semantic markup - meaningful markup
 
 shortcut for notes is "ctrl + /"
 ctrl + shift + p = to search
@@ -47,4 +55,4 @@ HREF stands for hypertext reference
 HTML5 - new version of html lmao. HTML standard is the document.
 html.spec.whatwg.org
 inline elements fit in alongside other elements
-block lvl elements take up a whole "block" of space*
+block lvl elements take up a whole "block" of space
