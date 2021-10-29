@@ -46,6 +46,8 @@ HTML NOTES:
     <sub> below the baseline sometimes smaller
     html entities all start with & end with ; used as filler for symbols that are difficult to type. ie copyright symbol, arrows, accented letters. also reserved characters [<>]. can be words or numbers. 
     semantic markup - meaningful markup
+    <article> should be identified, typically by including a heading element as a child of the <article> element
+    <aside> a side element lmao
 
 shortcut for notes is "ctrl + /"
 ctrl + shift + p = to search
